@@ -8,6 +8,8 @@ Tested with Python >=3.6
 
 By: JOR
     v0.1    26AUG21     Modified NMEAMux to log UBX, RTCM, AIS
+    v0.2    27JUL23     Modified as a general RTCM test suite
+
 """
 
 from datetime import datetime
